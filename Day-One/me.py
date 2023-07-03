@@ -1,1 +1,3 @@
 me = "Hey"
+
+print (me)
