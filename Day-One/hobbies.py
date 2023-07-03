@@ -9,4 +9,4 @@ Hobby = input("What is your hobby?/n")
 
 # Send the result to the User.
 
-print("Dear" + User + "," + "Your Hobby is" + Hobby)
+print("Dear" + " " + User + "," + "Your Hobby is" + " " + Hobby)
